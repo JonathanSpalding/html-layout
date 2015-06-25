@@ -1,0 +1,50 @@
+body {
+	height: 100%;
+	width: 100%;
+}
+.littleBox {
+	height: 70px;
+	width: 70px;
+	background-color: #4a90e2;
+	margin-left: 3%;
+	margin-top: 2%;
+	float: left;
+}
+.topBar {
+	height: 14%;
+	width: 100%;
+	background-color: #d8d8d8;
+
+}
+.text {
+	height: 27%;
+	width: 100%;
+	text-align: left;
+	margin-top: 5%;
+	margin-right: 2%;
+	margin-left: 2%;
+	font-size: 22px;
+	font-family: sans-serif;
+
+}
+.blue {
+	height: 14%;
+	width: 100%;
+	background-color: #4a90e2;
+
+}
+.seaGreen {
+	height: 14%;
+	width: 100%;
+	background-color: #50e3c2;
+}
+.pukeGreen {
+	height: 14%;
+	width: 100%;
+	background-color: #b8e986;
+}
+.yellow {
+	height: 14%;
+	width: 100%;
+	background-color: #f8e71c;
+}

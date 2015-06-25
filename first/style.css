@@ -1,0 +1,23 @@
+body {
+	background-color: #d3d1d1;
+}
+.top {
+	width: 1000px;
+	height: 110px;
+	background-color: #4c4c4c;
+}
+.middle {
+	width: 500px;
+	height: 500px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: white;
+}
+.bottom {
+	width: 500px;
+	height: 70px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: black;
+	clear: both;
+}

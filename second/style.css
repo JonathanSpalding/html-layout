@@ -1,0 +1,33 @@
+body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+.left {
+	height: 100%;
+	width: 33%;
+	background-color: #4a90e2;
+	float: left;
+}
+.middle {
+	float: left;
+	height: 100%;
+	width: 33%;
+	background-color: #50e3c2;
+}
+.right {
+	height: 100%;
+	width: 33%;
+	float: left;
+	background-color: #b8e986;
+}
+.imageHolder {
+	height: 22%;
+	width: 260px;
+	margin-top: 224%;
+	text-align: center;
+	line-height: 150px;
+	font-size: 30px;
+	color: white;
+	background-color: #d0041b;
+}
